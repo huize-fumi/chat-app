@@ -1,0 +1,2 @@
+class Rooom < ApplicationRecord
+end
